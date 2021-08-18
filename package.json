@@ -1,0 +1,9 @@
+{
+  "name": "collatz-conjecture",
+  "version": "0.0.1",
+  "description": "A sample program working through the 3x+1 problem as a hobby.",
+  "main": "index.js",
+  "repository": "https://github.com/Datapotomus/collatz-conjecture.git",
+  "author": "Me",
+  "license": "MIT"
+}
