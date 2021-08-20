@@ -54,7 +54,7 @@ for (let index = 0; index <= endNum; index++) {
   if (nb > topNumber.iterations) {
     topNumber.Number = index;
     // topNumber.iterations = nb;
-    topNumber.iterations = numList.length + 1;
+    topNumber.iterations = numList.length;
     topNumber.numList = numList;
   }
   console.log(`Starting Number: ${index} Iterations: ${nb}`);
