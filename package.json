@@ -6,7 +6,12 @@
   "repository": "https://github.com/Datapotomus/collatz-conjecture.git",
   "author": "Me",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "dependencies": {
-    "inquirer": "^8.1.2"
+    "express": "^4.17.1",
+    "inquirer": "^8.1.2",
+    "nodemon": "^2.0.12"
   }
 }
